@@ -1,0 +1,8 @@
+com\org\pointmax\commands\SetHomeCommand.class
+com\org\pointmax\commands\DeleteHomeCommand.class
+com\org\pointmax\PointMax.class
+com\org\pointmax\database\DataBaseManager.class
+com\org\pointmax\handlers\Events.class
+com\org\pointmax\commands\HomeCommand.class
+com\org\pointmax\commands\SetSpawnCommand.class
+com\org\pointmax\commands\SpawnCommand.class

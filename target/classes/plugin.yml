@@ -1,0 +1,29 @@
+name: PointMax
+version: '1.0'
+main: com.org.pointmax.PointMax
+api-version: '1.16'
+authors: [Ghabna111]
+description: home, spawn
+
+
+# permission may be not worked
+commands:
+  home:
+    description: home teleport
+    usage: /home <name>
+
+  sethome:
+    description: add new home
+    usage: /sethome <name>
+
+  delhome:
+    description: delete home
+    usage: /delhome <name>
+
+  spawn:
+    description: spawn teleport
+    usage: /spawn
+
+  setspawn:
+    description: set new spawn
+    usage: /setspawn
